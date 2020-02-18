@@ -1,1 +1,10 @@
-Title: Site Title
+Title: Majona | Logística Inteligente
+----
+Domicilio: 
+Majona Logistica Inteligente, SA de CV<br>
+Blvd Puerta de Hierro 5153 piso 2<br>
+Fracc. Plaza Andares<br>
+Zapopan, Jalisco<br>
+CP 45116<br>
+----
+Telefono: (33)1493-7346
