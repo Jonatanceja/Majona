@@ -1,0 +1,165 @@
+Title: Inicio
+
+----
+
+Titulo: Soluciones En Logística y Transporte de carga
+
+----
+
+Subtitulo: Logística Inteligente
+
+----
+
+Texto: Contamos con 10 años de experiencia en el transporte terrestre, dando soluciones especializadas a nuestros clientes generando un aliado estratégico en sus negocios.
+
+----
+
+Boton: Contáctanos
+
+----
+
+Enlace: https://api.whatsapp.com/send?phone=523338145562&text=Hola,%20los%20estoy%20contactando%20a%20trav%C3%A9s%20de%20su%20p%C3%A1gina%20web
+
+----
+
+Fondo:
+
+- portada-home.jpg
+
+----
+
+Imagen-intro:
+
+- intro_majona.jpg
+
+----
+
+Subtitulo-intro: Soluciones en logística inteligente
+
+----
+
+Titulo-intro: Confía y delega a los expertos
+
+----
+
+Texto-intro: Suministramos el tratamiento adecuado e idóneo en transporte, almacenamiento, distribución y la organización de tu logística para todos los tipos de carga (Hi-Tech, Perecederos, Farmacéuticos, Automotriz, etc.)
+
+----
+
+Texto-2:
+
+Buscamos la satisfacción de nuestro aliado comercial, y este es nuestro objetivo primordial.
+
+- Cuenta con el equipo integral de profesionales de **MAJONA** para dar soluciones en logística inteligente
+- Contamos con los recursos logísticos físicos. 
+- Libera a tu empresa de disponer de una propia flota de vehículos y almacenes.
+- Disminuye tus costos logísticos y de almacenaje.
+- Accede a servicios logísticos internacionales no importa el tamaño de tu empresa u operación.
+
+----
+
+Imagen-2:
+
+- almacen.jpg
+
+----
+
+Boton-2: Contáctanos
+
+----
+
+Url-2: /contacto/
+
+----
+
+Icono-1:
+
+- distribucion-2.png
+
+----
+
+Icono-2:
+
+- almacenamiento-2.png
+
+----
+
+Icono-3:
+
+- transporte-2.png
+
+----
+
+Titulo-1: Transporte de carga pesada
+
+----
+
+Titulo-2: Almacenamiento
+
+----
+
+Titulo-3: Distribución
+
+----
+
+Texto-anuncio-1: Tortón, tráiler 48,53 y full, rabón, caja seca, refrigerada y plataforma.
+
+----
+
+Texto-anuncio-2: Bodegas en zonas estratégicas de la ciudad de Guadalajara, CDMX y Manzanillo
+
+----
+
+Texto-anuncio-3:
+
+Servicio Expeditado envió de carga urgente.
+Servicio de transporte refrigerado y perecedero,
+Entrega con citas.
+
+----
+
+Icono-4: <i class="far fa-compass"></i>
+
+----
+
+Icono-5: <i class="fas fa-lock"></i>
+
+----
+
+Icono-6: <i class="fas fa-users"></i>
+
+----
+
+Titulo-4: Rastrea tu mercancia
+
+----
+
+Titulo-5: Asegura tu mercancía transporte, almacenaje y distribución
+
+----
+
+Titulo-6: Atención personalizada: Siempre estar la misma persona para atenderte
+
+----
+
+Bg-2:
+
+- cargas.jpg
+
+----
+
+Cta-1: Realiza toda tu logística con un solo proveedor
+
+----
+
+Cta-2: contáctanos
+
+----
+
+Bg-3:
+
+- transporte-cta.jpg
+
+----
+
+Subtitulo-2: Soluciones en logística inteligente

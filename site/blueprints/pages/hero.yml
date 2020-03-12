@@ -1,0 +1,20 @@
+title: Hero
+
+sections:
+  content:
+    type: fields
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      subtitulo:
+        label: Subtítulo
+        icon: title
+        type: text
+      texto:
+        label: Texto
+        type: textarea
+      imagen:
+        label: Imagen de fondo
+        type: files

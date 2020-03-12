@@ -1,0 +1,192 @@
+title: Inicio
+preset: page
+icon: home
+
+pages: false
+files: false
+
+
+hero: 
+  fields:
+    label: hero
+    type: structure
+    max: 1
+fields:
+  pageSettings:
+    label: Portada
+    type: headline
+    numbered: false
+  titulo:
+    icon: headline
+    width: 1/2
+    label: Título
+    type: text
+  subtitulo:
+    icon: title
+    width: 1/2
+    label: Subtítulo
+    type: text  
+  texto: 
+    label: Texto
+    type: textarea
+  boton:
+    width: 1/2
+    label: boton
+    type: text
+  enlace: 
+    icon: url
+    width: 1/2
+    label: Enlace
+    type: text
+  fondo: 
+    icon: image
+    label: Imagen de fondo
+    type: files
+    max: 1
+    layout: cards
+
+  intro:  
+    label: Sección 1
+    type: headline
+    numbered: false
+  imagen_intro:
+    width: 1/2
+    icon: image
+    label: Imagen izquierda
+    type: files
+    max: 1
+    layout: cards
+  subtitulo_intro: 
+    icon: title
+    label: Subtítulo superior
+    type: text
+  titulo_intro:
+    icon: title
+    type: text
+  texto_intro:
+    icon: text
+    type: textarea
+  texto_2:
+    label: Texto 2
+    icon: text
+    type: textarea
+    width: 1/2
+  imagen_2:
+    label: Imagen 2
+    icon: image
+    type: files
+    max: 1
+    width: 1/2
+    layout: cards
+  boton_2:
+    width: 1/2
+    label: Botón de contacto
+    type: text
+  url_2:
+    width: 1/2
+    label: Url
+    type: text
+
+  Servicios:  
+    label: Servicios
+    type: headline
+    numbered: false
+  icono_1:
+    width: 1/3
+    icon: image
+    label: Icono 1
+    type: files
+    max: 1
+  icono_2:
+    width: 1/3
+    icon: image
+    label: Icono 2
+    type: files
+    max: 1
+  icono_3:
+    width: 1/3
+    icon: image
+    label: Icono 3
+    type: files
+    max: 1
+  titulo_1:
+    width: 1/3
+    label: Título 1
+    type: text
+  titulo_2:
+    width: 1/3
+    label: Título 2
+    type: text
+  titulo_3:
+    width: 1/3
+    label: Título 3
+    type: text
+  texto_anuncio_1:
+    width: 1/3
+    label: Texto 1
+    type: textarea
+  texto_anuncio_2:
+    width: 1/3
+    label: Texto 2
+    type: textarea
+  texto_anuncio_3:
+    width: 1/3
+    label: Texto 3
+    type: textarea
+  
+  icono_4:
+    width: 1/3
+    type: text
+    label: Icono Font Awesome
+  icono_5:
+    width: 1/3
+    type: text
+    label: Icono Font Awesome
+  icono_6:
+    width: 1/3
+    type: text
+    label: Icono Font Awesome
+  titulo_4:
+    width: 1/3
+    label: Título 4
+    type: text
+  titulo_5:
+    width: 1/3
+    label: Título 5
+    type: text
+  titulo_6:
+    width: 1/3
+    label: Título 6
+    type: text
+  bg_2:
+    label: Fondo
+    type: files
+    max: 1
+    layout: cards
+  cta_1:
+    label: Llamado a la acción
+    type: text
+  cta_2: 
+    label: Subtítulo
+    type: text
+  bg_3:
+    label: Fondo
+    type: files
+    max: 1
+    layout: cards
+  
+
+  
+
+
+
+
+      
+
+    
+
+
+
+
+
+

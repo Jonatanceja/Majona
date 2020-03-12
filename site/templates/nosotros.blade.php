@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
 
-<div class="flex content-center flex-wrap bg-local bg-cover h-screen bg-center" style="background-image: url('/images/portada-nosotros.jpg'); border-left: 3rem solid white; border-right: 3rem solid white; border-bottom: 3rem solid white">
+<div class="flex content-center flex-wrap bg-local bg-cover h-screen mx-0 sm:mx-0 md:mx-0 lg:mx-12 xl:mx-12 -mt-0 sm:-mt-0 md:-mt-0 lg:-mt-12 xl:-mt-12" style="background-image: url('/images/portada-nosotros.jpg');">
     <div class="container mx-auto">
       <div class="text-black text-left sm:w-auto md:w-full lg:w-1/2 xl:w-1/2 px-5">
         <h3 class="text-2xl -my-3">— Nosotros</h3>
@@ -9,15 +9,15 @@
         <h1 class="text-3xl font-bold block xl:hidden lg:hidden md:hidden sm:block">Comprometidos</h1>
         <p class="text-base my-3"><?= $page->principal() ?></p>
         <button class="bg-blue-900 hover:bg-blue-800 text-white font-bold py-2 px-4 my-3">
-          <a href="#">Contáctanos</a>
+          <a href="<?= $site->whatsapp() ?>">Contáctanos</a>
         </button>
         
     </div>
   </div>   
 </div>   
 
-<div class="flex flex-wrap bg-gray-200 py-16">
-    <div class="container flex flex-wrap mx-auto content-center text-center">
+<div class="flex flex-wrap bg-gray-200 py-16 mt-0 sm:mt-0 md:mt-0 lg:mt-12 xl:mt-12">
+    <div class="container flex flex-wrap mx-auto text-center">
         <div class="m-auto w-full px-10">
         <h2 class="text-xl text-center">— Elije Majona por nuestros — </h2>
         <h1 class="text-5xl text-center">Servicios</h1>
@@ -25,18 +25,12 @@
         </div>
     <div class="xl:w-1/2 lg:w-1/2 md:w-full sm:w-auto p-10 my-auto text-left">
     <ul class="list-disc ml-10">
-        <li>Disponible para clientes privados como para empresas.</li>
-        <li>Asesoría para el cumplimiento de requisitos para empaque y traslado estatales, federales, y de salubridad de transporte por tipo de  carga.</li>
-        <li>Asignación de unidades de transporte dedicadas y configuradas de acuerdo a su clasificación por tipo de carga.</li>
-        <li>Pricing: hacemos un análisis de sus necesidades de transporte dando soluciones eficientes.</li>
+        <?= $page->lista1() ?>
     </ul>
     </div>
     <div class="xl:w-1/2 lg:w-1/2 md:w-auto sm:w-full p-10 my-auto text-left">
       <ul class="list-disc ml-10">
-        <li>Tenemos presencia con un recinto fiscal estratégico sin transbordos, para su mercancía de carga desde lo que minimiza el riesgo de daños y  a pérdidas.</li>
-        <li>Generamos comunicación antes, durante y después del transporte.</li>
-        <li>GPS y telemetría de seguimiento en el transporte y carga.</li>
-        <li>Acuerdos específicos en tiempos de recogida y entrega.</li>
+        <?= $page->lista2() ?>
       </ul>
     </div>
   </div>
@@ -78,7 +72,7 @@
         <h3 class="text-3xl -my-3">— Contáctanos</h3>
         <p class="text-xl my-3">Solicita tu cotización</p>
         <button class="bg-blue-900 hover:bg-blue-800 text-white font-bold py-2 px-4 my-3">
-          <a href="#">Contáctanos</a>
+          <a href="/contacto/">Contáctanos</a>
         </button>
         
     </div>

@@ -1,0 +1,6 @@
+Hello Company,
+
+<?= $text ?>
+
+<?= $sender ?>
+

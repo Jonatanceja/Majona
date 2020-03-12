@@ -1,0 +1,57 @@
+Title: Contacto
+
+----
+
+Titulo: Contáctanos
+
+----
+
+Subtitulo: Oficinas
+
+----
+
+Empresa: Majona Logistica Inteligente, SA de CV
+
+----
+
+Direccion: Blvd Puerta de Hierro 5153 piso 2
+
+----
+
+Colonia: Fracc. Plaza Andares
+
+----
+
+Cp: 45116
+
+----
+
+Ciudad: Zapopan
+
+----
+
+Estado: Jalisco
+
+----
+
+Telefono: 3338145562
+
+----
+
+Correo: contacto@majona.mx
+
+----
+
+Mapa: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.015083745991!2d-103.41561988454755!3d20.7096120861721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428af0257e9449f%3A0xa41ebd2e60d0a295!2spiso%202%2C%20Blvrd%20Puerta%20de%20Hierro%205153%2C%20Puerta%20de%20Hierro%2C%2045116%20Zapopan%2C%20Jal.!5e0!3m2!1ses-419!2smx!4v1582035849804!5m2!1ses-419!2smx" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+----
+
+Contacto:
+
+- 
+  empresa: Majona Logistica Inteligente, SA de CV
+  calle: Blvd Puerta de Hierro 5153 piso 2
+  cp: 45116
+  ciudad: Zapopan, Jalisco
+  colonia: Fracc. Plaza Andares
+  email: contacto@majona.mx

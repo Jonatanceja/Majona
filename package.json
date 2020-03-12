@@ -37,6 +37,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
+    "tailwindcss-animatecss": "^0.2.7",
     "tailwindcss-typography": "^2.2.0"
   }
 }

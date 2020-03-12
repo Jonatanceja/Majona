@@ -1,0 +1,21 @@
+Title: Nosotros
+----
+Principal: Somos una empresa comprometida con proveer un servicio de soluciones en transporte terrestre local, regional y nacional, siendo un aliado estratégico para el transporte y logística eficiente de toda su carga.
+----
+Mision: Somos la compañía que facilita y organiza el transporte de mercancías para nuestros clientes. Responsables de combinar diferentes medios de transporte y almacenaje ofreciendo un solo servicio de solución para a toda su carga con activos propios y de terceros.
+----
+Vision: Para el 2025 Ser una de las 5 mejores compañias reconocidas dentro de la industria de transporte regional en México como la más seleccionada para proporcionar soluciones en logística, almacenaje y transporte terrestre , regional y nacional, siendo la más rentable para nuestros clientes, asociados y accionistas.
+----
+Valores: HONESTIDAD, RESPONSABILIDAD, CONFIANZA, SEGURIDAD, INTEGRIDAD
+----
+lista1: 
+<li>Disponible para clientes privados como para empresas.</li>
+<li>Nos adaptamos para el cumplimiento de requisitos para empaque y traslado estatales, federales, y de salubridad de transporte por tipo de  carga.</li>
+<li>Asignación de unidades de transporte  de acuerdo a su clasificación por tipo de carga.</li>
+----
+lista2: 
+<li>Pricing hacemos un análisis de sus necesidades de transporte dando soluciones y costos eficientes</li>
+<li>Generamos comunicación antes, durante y después del transporte teniendo la confianza y el control de su carga en todo el tiempo.</li>
+----
+
+

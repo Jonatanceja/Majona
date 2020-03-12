@@ -1,0 +1,60 @@
+title: Contacto
+preset: page
+icon: email
+
+pages: false
+files: false
+
+fields:
+  titulo:
+    icon: headline
+    width: 1/2
+    label: Título
+    type: text
+  subtitulo:
+    icon: title
+    width: 1/2
+    label: Subtítulo
+    type: text  
+  empresa: 
+    icon: home
+    width: 1/2
+    label: Nombre de la empresa
+    type: text
+  direccion:
+    icon: car
+    width: 1/2  
+    label: Dirección (calle y numero)
+    type: text
+  colonia: 
+    width: 1/4
+    label: Colonia
+    type: text
+  cp:
+    width: 1/4
+    label: Código Póstal 
+    type: number
+  ciudad:
+    width: 1/4
+    label: Ciudad
+    type: text
+  estado: 
+    width: 1/4
+    label: Estado
+    type: text
+  telefono: 
+    icon: phone
+    width: 1/2
+    label: Teléfono
+    type: text
+  correo:
+    width: 1/2
+    label: Correo electrónico
+    type: email  
+  mapa:
+    label: Insertar mapa
+    type: textarea
+  
+
+
+
