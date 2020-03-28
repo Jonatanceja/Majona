@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "tailwindcss-animatecss": "^0.2.7",
+    "tailwindcss-animations": "^2.0.0",
     "tailwindcss-typography": "^2.2.0"
   }
 }
